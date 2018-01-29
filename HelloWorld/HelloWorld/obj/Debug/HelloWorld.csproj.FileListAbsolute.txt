@@ -4,3 +4,10 @@ C:\Programming\Repos\Misc. Mentorship Learning Activities\HelloWorld\HelloWorld\
 C:\Programming\Repos\Misc. Mentorship Learning Activities\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\Programming\Repos\Misc. Mentorship Learning Activities\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Programming\Repos\Misc. Mentorship Learning Activities\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Programing\Repos\MiscLearningActivities\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Programing\Repos\MiscLearningActivities\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Programing\Repos\MiscLearningActivities\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Programing\Repos\MiscLearningActivities\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Programing\Repos\MiscLearningActivities\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Programing\Repos\MiscLearningActivities\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Programing\Repos\MiscLearningActivities\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
