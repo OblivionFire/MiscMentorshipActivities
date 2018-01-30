@@ -15,6 +15,7 @@ namespace HelloWorld
             Console.WriteLine("My address is: 820 Mary Rose Ct.");
             Console.WriteLine("Brookfield, WI, 53045");
             Console.WriteLine("I am 17, and I am a guy, I use He/Him");
+            Console.WriteLine("Soem of my Hobbies are Gaming, Game Development, Reading, Cars, and guns");
 			Console.ReadKey();
 		}
 	}
